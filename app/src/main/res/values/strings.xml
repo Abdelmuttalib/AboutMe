@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Abdelmuttalib</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="scenic_image">Scenic</string>
+    <string name="bio">Hi, my name is Abdelmuttalib. \n\nI love Programming. \n\nEspecially Web Development. I enjoy coding and being part of the Technology that/s driving the Feature of the world.</string>
+
+</resources>
